@@ -1,0 +1,77 @@
+[
+  {
+    "name": "Alice Johnson",
+    "password": "password123",
+    "hashedPassword": "482c811da5d5b4bc6d497ffa98491e38",
+    "ticketsBooked": [
+      {
+        "ticketId": "T001",
+        "event": "Rock Concert",
+        "price": 200.00,
+        "seat": "B15"
+      },
+      {
+        "ticketId": "T002",
+        "event": "Broadway Show",
+        "price": 120.00,
+        "seat": "D10"
+      }
+    ],
+    "userId": "U001"
+  },
+  {
+    "name": "Bob Smith",
+    "password": "qwerty456",
+    "hashedPassword": "d8578edf8458ce06fbc5bb76a58c5ca4",
+    "ticketsBooked": [
+      {
+        "ticketId": "T003",
+        "event": "Football Match",
+        "price": 75.00,
+        "seat": "E20"
+      }
+    ],
+    "userId": "U002"
+  },
+  {
+    "name": "Charlie Davis",
+    "password": "zxcvbn789",
+    "hashedPassword": "25f9e794323b453885f5181f1b624d0b",
+    "ticketsBooked": [
+      {
+        "ticketId": "T004",
+        "event": "Stand-Up Comedy",
+        "price": 50.00,
+        "seat": "A1"
+      },
+      {
+        "ticketId": "T005",
+        "event": "Music Festival",
+        "price": 300.00,
+        "seat": "VIP"
+      }
+    ],
+    "userId": "U003"
+  },
+  {
+    "name": "Diana Evans",
+    "password": "pass1234",
+    "hashedPassword": "8843d7f92416211de9ebb963ff4ce281",
+    "ticketsBooked": [
+      {
+        "ticketId": "T006",
+        "event": "Art Exhibition",
+        "price": 20.00,
+        "seat": "N/A"
+      }
+    ],
+    "userId": "U004"
+  },
+  {
+    "name": "Ethan Brown",
+    "password": "letmein321",
+    "hashedPassword": "fc5e038d38a57032085441e7fe7010b0",
+    "ticketsBooked": [],
+    "userId": "U005"
+  }
+]
