@@ -38,7 +38,7 @@ public class UserBookingService {
                File file = new File(UserPath);
 
         if (!file.exists()) {
-            System.out.println("User file not found, creating new list.");
+            System.out.println("User file not found, creating new list ");
             userList = new ArrayList<>();
             return;
         }
