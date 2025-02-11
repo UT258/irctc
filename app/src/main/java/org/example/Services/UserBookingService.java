@@ -49,6 +49,9 @@ public class UserBookingService {
             System.out.println("Error reading user file: " + e.getMessage());
             userList = new ArrayList<>();
         }
+        //enter the nuumber of users in  the list
+        System.out.println("Number of users: " + userList.size());
+
 
 
     }

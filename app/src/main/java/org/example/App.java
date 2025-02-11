@@ -88,6 +88,8 @@ public class App {
 
                     System.out.println("Ticket booked successfully!");
                     break;
+                case 5:
+                    System.out.println("enter the ticket number to print the ticket");
 
 
                 case 7: // Exit
